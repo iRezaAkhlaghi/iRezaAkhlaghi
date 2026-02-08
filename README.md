@@ -6,7 +6,7 @@ Turning coffee ☕ into clean code & interactive web applications 🌐
 Frontend: React, Next.js, TailwindCSS  
 Backend: FastAPI, Firebase  
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00C853&center=true&vCenter=true&width=700&lines=Building+modern+web+apps;Pixel-perfect+UI;JavaScript+%26+TypeScript;Clean+Code+Mindset)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00C853&center=true&vCenter=true&width=700&lines=Building+modern+web+apps;Pixel-perfect+UI;JavaScript+%26+TypeScript;Clean+Code+Mindset;My+DE+is+my+herapist;Code+>+Sleep)
 
 ---
 
