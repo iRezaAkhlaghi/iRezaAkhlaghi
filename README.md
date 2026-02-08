@@ -1,24 +1,84 @@
-<h1 align="center">Hi 👋, I'm Reza Akhlaghi</h1>
-<h3 align="center">console.logging my life</h3>
+# 👾 Reza Akhlaghi
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irezaakhlaghi&label=Profile%20views&color=0e75b6&style=flat" alt="irezaakhlaghi" /> </p>
+### 🖤💚 Web Developer | JS & TypeScript Enthusiast
 
-<p align="left"> <a href="https://twitter.com/rezalo_" target="blank"><img src="https://img.shields.io/twitter/follow/rezalo_?logo=twitter&style=for-the-badge" alt="rezalo_" /></a> </p>
+Turning coffee ☕ into clean code & interactive web apps 🌐.  
+Frontend: React, Next.js, TailwindCSS | Backend: FastAPI, Firebase  
 
-- 📫 How to reach me **rezatakhlaghi@gmail.com**
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=Building+modern+web+apps;Pixel-perfect+UI;JS+%26+TypeScript+lover;Coding+is+my+art)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rezalo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rezalo_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/reza-akhlaghii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/reza-akhlaghii" height="30" width="40" /></a>
-<a href="https://instagram.com/reza_akhlaaghi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reza_akhlaaghi" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## 🌐 Connect with Me
+[![Instagram](https://img.shields.io/badge/Instagram-%2300FF00.svg?logo=Instagram&logoColor=black)](https://instagram.com/Reza_Akhlaaghi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300FF00.svg?logo=linkedin&logoColor=black)](https://linkedin.com/in/RezaAkhlaghii)
+[![X](https://img.shields.io/badge/X-%2300FF00.svg?logo=X&logoColor=black)](https://x.com/Rezalo_)
+[![Email](https://img.shields.io/badge/Email-%2300FF00.svg?logo=gmail&logoColor=black)](mailto:irezaakhlaghi@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irezaakhlaghi&show_icons=true&locale=en&layout=compact" alt="irezaakhlaghi" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irezaakhlaghi&show_icons=true&locale=en" alt="irezaakhlaghi" /></p>
+## 💻 Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irezaakhlaghi&" alt="irezaakhlaghi" /></p>
+![HTML5](https://img.shields.io/badge/HTML5-%2300FF00.svg?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-%2300FF00.svg?style=for-the-badge&logo=css3&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-%2300FF00.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%2300FF00.svg?style=for-the-badge&logo=typescript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2300FF00.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%2300FF00.svg?style=for-the-badge&logo=next.js&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2300FF00.svg?style=for-the-badge&logo=tailwind-css&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-%2300FF00.svg?style=for-the-badge&logo=redux&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-%2300FF00.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-%2300FF00.svg?style=for-the-badge&logo=fastapi&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-%2300FF00.svg?style=for-the-badge&logo=supabase&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-%2300FF00.svg?style=for-the-badge&logo=vite&logoColor=black)
+
+---
+
+## ⚡ My GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iRezaAkhlaghi&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iRezaAkhlaghi&theme=dark&layout=compact&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iRezaAkhlaghi&theme=dark&show_icons=true&count_private=true&hide_border=false)
+![Top Repositories](https://github-contributor-stats.vercel.app/api?username=iRezaAkhlaghi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Tech | Features | Live Demo |
+|---------|------|---------|-----------|
+| **3D Portfolio** | Three.js, React | Interactive 3D portfolio 🌌 | [View](#) |
+| **Realtime Chat App** | Next.js, Supabase | Realtime messaging, dark mode 💬 | [View](#) |
+| **Data Viz Playground** | Chart.js, D3.js | Animated dashboards 📊 | [View](#) |
+| **JS Games Hub** | Vanilla JS | Fun interactive browser games 🎮 | [View](#) |
+| **UI Components Library** | React, Tailwind | Reusable, animated components ⚡ | [View](#) |
+
+---
+
+## 🌱 Playground & Experiments
+- **AI-powered Frontend Components** 🤖  
+- **Motion & Animation with Framer Motion** ✨  
+- **Web3 / Blockchain Mini DApps** ⛓️  
+- **Progressive Web Apps (PWA)** 🚀  
+- **CSS Magic & Neumorphism UI** 🎨  
+
+---
+
+## 🖤 Creative Side
+- Writing **JS one-liners for fun**  
+- Breaking things to **learn why they work** ⚡  
+- Exploring **Web APIs & experimental tech** 🔍  
+- Collecting **cool JS snippets & hacks** 💾  
+- Coffee-fueled **late-night coding sessions** ☕🌙  
+
+---
+
+## 🔗 Let's Connect & Collab
+[![Instagram](https://img.shields.io/badge/Instagram-%2300FF00.svg?logo=Instagram&logoColor=black)](https://instagram.com/Reza_Akhlaaghi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300FF00.svg?logo=linkedin&logoColor=black)](https://linkedin.com/in/RezaAkhlaghii)
+[![X](https://img.shields.io/badge/X-%2300FF00.svg?logo=X&logoColor=black)](https://x.com/Rezalo_)
+[![Email](https://img.shields.io/badge/Email-%2300FF00.svg?logo=gmail&logoColor=black)](mailto:irezaakhlaghi@gmail.com)
+
+---
+
+![Visitor Count](https://profile-counter.glitch.me/iRezaAkhlaghi/count.svg)
