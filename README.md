@@ -1,6 +1,6 @@
 # 👾 Reza Akhlaghi
 
-### 🖤💚 Web Developer | JavaScript & TypeScript Enthusiast
+###  Web Developer | JavaScript & TypeScript Enthusiast
 
 Turning coffee ☕ into clean code & interactive web applications   
  
@@ -34,12 +34,8 @@ Turning coffee ☕ into clean code & interactive web applications
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=iRezaAkhlaghi&theme=dark&hide_border=true&show_icons=true&icon_color=00C853&title_color=00C853&text_color=ffffff)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&color=00FFAA&center=true&vCenter=true&width=900&lines=Code+is+my+language;Coffee+is+my+fuel;Building+the+web+one+line+at+a+time)
 
-![](https://nirzak-streak-stats.vercel.app/?user=iRezaAkhlaghi&theme=dark&hide_border=true&ring=00C853&fire=00C853&currStreakLabel=00C853)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iRezaAkhlaghi&layout=compact&theme=dark&hide_border=true&title_color=00C853&text_color=ffffff)
 
 ---
 
