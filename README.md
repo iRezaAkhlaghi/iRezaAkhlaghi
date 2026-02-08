@@ -34,7 +34,8 @@ Turning coffee ☕ into clean code & interactive web applications
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&color=00FFAA&center=true&vCenter=true&width=900&lines=Code+is+my+language;Coffee+is+my+fuel;Building+the+web+one+line+at+a+time)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff99&height=250&section=header&text=Code%20is%20Art&fontSize=50&fontColor=ffffff)
+
 
 
 ---
