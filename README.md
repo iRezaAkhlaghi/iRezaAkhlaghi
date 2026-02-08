@@ -43,11 +43,6 @@ Turning coffee ☕ into clean code & interactive web applications
 
 ---
 
-## 🏆 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=iRezaAkhlaghi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 ## 📫 Contact Me
 [![Telegram](https://img.shields.io/badge/Telegram-2f2f2f?style=for-the-badge&logo=telegram&logoColor=cccccc)](https://t.me/rezalo)
 [![Email](https://img.shields.io/badge/Email-2f2f2f?style=for-the-badge&logo=gmail&logoColor=cccccc)](mailto:irezaakhlaghi@gmail.com)
