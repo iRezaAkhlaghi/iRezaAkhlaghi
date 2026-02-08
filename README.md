@@ -34,7 +34,8 @@ Turning coffee ☕ into clean code & interactive web applications
 
 ---
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff99&height=250&section=header&text=Code%20is%20Art&fontSize=50&fontColor=ffffff)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=2500&pause=700&color=00FF99&center=true&vCenter=true&width=900&lines=Pixels+with+purpose;Code+with+soul;Welcome+to+my+GitHub)
+
 
 
 
