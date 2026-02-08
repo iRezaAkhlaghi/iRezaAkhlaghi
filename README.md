@@ -2,11 +2,10 @@
 
 ### 🖤💚 Web Developer | JavaScript & TypeScript Enthusiast
 
-Turning coffee ☕ into clean code & interactive web applications 🌐  
-Frontend: React, Next.js, TailwindCSS  
-Backend: FastAPI, Firebase  
+Turning coffee ☕ into clean code & interactive web applications   
+ 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00C853&center=true&vCenter=true&width=700&lines=Building+modern+web+apps;Pixel-perfect+UI;JavaScript+%26+TypeScript;Clean+Code+Mindset;My+IDE+is+my+herapist;Code+>+Sleep)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00C853&center=true&vCenter=true&width=700&lines=Building+modern+web+apps;Pixel-perfect+UI;JavaScript+%26+TypeScript;Clean+Code+Mindset;My+IDE+is+my+فherapist;Code+>+Sleep)
 
 ---
 
