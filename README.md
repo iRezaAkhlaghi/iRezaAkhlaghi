@@ -47,4 +47,4 @@ Turning coffee ☕ into clean code & interactive web applications
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/iRezaAkhlaghi/count.svg)
+
